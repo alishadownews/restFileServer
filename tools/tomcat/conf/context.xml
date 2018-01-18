@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Context  mapperContextRootRedirectEnabled="true">
+    <WatchedResource>WEB-INF/web.xml</WatchedResource>
+<!--	
+	<ResourceLink name="jdbc/dataSource" 
+       global="jdbc/dataSource" 
+       type="javax.sql.DataSource"/>
+	<ResourceLink name="jdbc/updateDataSource" 
+       global="jdbc/updateDataSource" 
+       type="javax.sql.DataSource"/>
+	<ResourceLink name="jdbc/pmpProdDataSource" 
+       global="jdbc/pmpProdDataSource" 
+       type="javax.sql.DataSource"/>
+	<ResourceLink name="jdbc/helpDataSource" 
+       global="jdbc/helpDataSource" 
+       type="javax.sql.DataSource"/>
+	<ResourceLink name="jdbc/authDataSource" 
+       global="jdbc/authDataSource" 
+       type="javax.sql.DataSource"/>
+-->
+	   
+</Context>
